@@ -27,67 +27,13 @@
       "Flowchart": {
         "Type": "Flow",
         "ZoomFactor": "100",
-        "XPosition": "0",
-        "YPosition": "0",
-        "Width": "0",
-        "Hight": "0",
+        "XPosition": "-4950",
+        "YPosition": "-4950",
+        "Width": "10000",
+        "Hight": "10000",
         "IsDeleted": "False",
         "Id": "384cf400-d799-43c8-8385-ab81dd35e6bf",
-        "BuildingBlocks": [
-          {
-            "Title": "Start",
-            "XPosition": "5000",
-            "YPosition": "5000",
-            "IsExpanded": "False",
-            "Width": "0",
-            "TemplateId": "",
-            "FlowchartId": "384cf400-d799-43c8-8385-ab81dd35e6bf",
-            "Type": "Start",
-            "Note": "",
-            "IsNoteVisible": "False",
-            "Id": "53005017-ff0e-4007-9364-ce1e2cae9f69",
-            "FlowProperties": [
-              {
-                "ParentBuildingBlockId": "53005017-ff0e-4007-9364-ce1e2cae9f69",
-                "ParentFlowPropertyId": "",
-                "TemplateId": "",
-                "Type": "Header",
-                "Key": "Header",
-                "Title": "Start",
-                "SortOrder": "0",
-                "ValueId": "fc16831a-62c7-4cfd-bb7e-b4c6d068005f",
-                "LType": "LSignal",
-                "IsExpanded": "False",
-                "IsBlockPropertyChecked": "",
-                "CustomSortOrder": "0",
-                "Id": "a3d798d5-fb67-44d4-8087-9c3e5fe6f87c",
-                "ChildProperties": [],
-                "Connections": []
-              },
-              {
-                "ParentBuildingBlockId": "53005017-ff0e-4007-9364-ce1e2cae9f69",
-                "ParentFlowPropertyId": "",
-                "TemplateId": "",
-                "Type": "Dictionary",
-                "Key": "StartAction",
-                "Title": "",
-                "SortOrder": "1",
-                "ValueId": "c411ead6-32f4-4a1d-92f3-b4c6d068005f",
-                "LType": "LText",
-                "IsExpanded": "False",
-                "IsBlockPropertyChecked": "",
-                "CustomSortOrder": "0",
-                "Id": "c6d04494-1c63-4f0d-91d6-96f41106b93b",
-                "ChildProperties": [],
-                "Connections": [],
-                "Value": {
-                  "Value": "NoAction",
-                  "Id": "c411ead6-32f4-4a1d-92f3-b4c6d068005f"
-                }
-              }
-            ]
-          }
-        ],
+        "BuildingBlocks": [],
         "FlowProperties": []
       }
     }
