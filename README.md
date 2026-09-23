@@ -29,3 +29,5 @@ Leapwork’s completely visual, no-code automation platform makes it easy for bu
 
 # Troubleshooting
 - If you catch an error "No such run [runId]!" after schedule starting, increase time delay parameter.
+
+- Git versioning access validated by Leapwork at 2026-09-23 06:55:34 UTC.
