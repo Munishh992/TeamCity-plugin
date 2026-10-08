@@ -55,3 +55,5 @@ Leapwork’s completely visual, no-code automation platform makes it easy for bu
 - Git versioning access validated by Leapwork at 2026-09-30 12:32:08 UTC.
 
 - Git versioning access validated by Leapwork at 2026-10-01 17:56:13 UTC.
+
+- Git versioning access validated by Leapwork at 2026-10-08 17:35:45 UTC.
